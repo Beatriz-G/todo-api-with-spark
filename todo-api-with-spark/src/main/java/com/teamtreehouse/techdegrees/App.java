@@ -1,6 +1,6 @@
 package com.teamtreehouse.techdegrees;
 
-
+import static spark.Spark.*;
 import static spark.Spark.get;
 import static spark.Spark.staticFileLocation;
 
